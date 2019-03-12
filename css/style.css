@@ -36,8 +36,8 @@ body{
 	border-top: 1px solid #0088f2;
 	padding-left: 20px;
 	border-radius: 15px/13px;
-	text-shadow: 0px -2px 0px rgba(1, 69, 119, 0.4);
-	box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 1), 
+	text-shadow:0 -2px 0px rgba(1, 69, 119, 0.4);
+	box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 1),
 													inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3),
 													inset 1px 0 0 0 #005ea7,
 													inset -1px 0 0 0 #005ea7;
@@ -47,7 +47,7 @@ body{
 	            linear-gradient(to top, #30a3fc 0%, #0073cc 100%);
 }
 .btn:active{
-		box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 1), 
+		box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 1),
 													inset 0px 1px 0px 0px rgba(255, 255, 255, 0.3),
 													inset 1px 0 0 0 #005ea7,
 													inset -1px 0 0 0 #005ea7;
@@ -143,14 +143,14 @@ body{
 	color: #fff;
 	border-radius: 30px;
 	border: 1px solid #0a537f;
-	background: url(../images/ic-arrow.png) 252px 17px no-repeat, 
+	background: url(../images/ic-arrow.png) 252px 17px no-repeat,
 	            linear-gradient(to bottom, #1b8ad1 0%,#0669a6 50%,#0669a6 50%,#0669a6 100%);
 	box-shadow: 0px 3px 1px 0px rgba(136, 136, 136, 0.75),
 													1px 0px 1px 0px rgba(136, 136, 136, 0.75),
 													-1px 0px 1px 0px rgba(136, 136, 136, 0.75);
 }
 .btn4:hover{
-	background: url(../images/ic-arrow.png) 252px 17px no-repeat, 
+	background: url(../images/ic-arrow.png) 252px 17px no-repeat,
 	            linear-gradient(to top, #1b8ad1 0%,#0669a6 50%,#0669a6 50%,#0669a6 100%);
 }
 .btn4:active{
